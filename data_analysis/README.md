@@ -18,15 +18,11 @@ pip install pandas matplotlib
 # 下载仓库
 git clone https://github.com/ldy-123/dy_skills.git
 
-# 将 SKILL.md 复制到你的项目目录即可使用
-cp ldy-123/dy_skills/SKILL.md 你的项目目录/
+# 将整个 skill 文件夹复制到你的 agent 的 skill 目录
+cp -r dy_skills/data_analysis <你的 agent skill 目录>/
 ```
 
-或直接下载单个文件：
 
-```bash
-curl -O https://raw.githubusercontent.com/ldy-123/dy_skills/main/SKILL.md
-```
 
 ---
 
