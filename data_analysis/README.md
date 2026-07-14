@@ -6,12 +6,6 @@
 
 ## 安装
 
-
-
-```bash
-pip install pandas matplotlib
-```
-
 **安装 skill：**
 
 ```bash
@@ -22,7 +16,7 @@ git clone https://github.com/ldy-123/dy_skills.git
 cp -r dy_skills/data_analysis <你的 agent skill 目录>/
 ```
 
-
+安装指令有报错，可以直接截图随便问一个AI
 
 ---
 
