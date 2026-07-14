@@ -11,9 +11,6 @@
 ```bash
 # 下载仓库
 git clone https://github.com/ldy-123/dy_skills.git
-
-# 将整个 skill 文件夹复制到你的 agent 的 skill 目录
-cp -r dy_skills/data_analysis <你的 agent skill 目录>/
 ```
 
 安装指令有报错，可以直接截图随便问一个AI
