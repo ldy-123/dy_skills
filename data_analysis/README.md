@@ -16,16 +16,16 @@ pip install pandas matplotlib
 
 ```bash
 # 下载仓库
-git clone https://github.com/<你的用户名>/<仓库名>.git
+git clone https://github.com/ldy-123/dy_skills.git
 
 # 将 SKILL.md 复制到你的项目目录即可使用
-cp <仓库名>/SKILL.md 你的项目目录/
+cp ldy-123/dy_skills/SKILL.md 你的项目目录/
 ```
 
 或直接下载单个文件：
 
 ```bash
-curl -O https://raw.githubusercontent.com/<你的用户名>/<仓库名>/main/SKILL.md
+curl -O https://raw.githubusercontent.com/ldy-123/dy_skills/main/SKILL.md
 ```
 
 ---
